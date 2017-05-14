@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Berry
+GenericName=Application Launcher
+X-GNOME-FullName=Berry Application Launcher
+Comment=A python based app launcher
+TryExec=launcherui.py
+Exec=launcherui.py
+Icon=/usr/share/fur-box/berry.png
+Terminal=false
+Type=Application
+Categories=System;GTK;
+StartupNotify=true
+
